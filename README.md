@@ -1,2 +1,2 @@
 # Hello-World
-Hello World in Different Languages
+Simple Programs in different languages to help practice git and github
